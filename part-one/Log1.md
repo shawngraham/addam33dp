@@ -11,7 +11,7 @@ Sequence I intend to follow is the newcomer Sequence this is because I am pretty
  + Markdown was difficult and I was challenged with inserting the image as I was putting just the URL so it was bringing up the website which it was located on.
  + But than chatting with the Prof on discord he put me on the right track.
  + So I had to use the URL of the actual picture itself and than that worked better.
- + It was also perfect timing as Torin a classmate was running into the same problem.
+ + It was also perfect timing as Torin a classmate was running into the same problem, and we got it figured out over discord.
 
 # Name of Tutorial: Github
 
@@ -24,7 +24,7 @@ Sequence I intend to follow is the newcomer Sequence this is because I am pretty
 
 # Name of Tutorial: Digital History Analytical Toolkit.
 
-+ Now this one was challenging, I started by installing MiniConda, Python and R studio. Everything loaded up pretty easily except for R studio it kept giving me an error message.![Error message](https://github.com/Adam33dp/-hist3814-materials/blob/main/part-one/error%20message%20R%20studio.jpg)
++ Now this one was challenging, I started by installing MiniConda, Python and R studio. Everything loaded up pretty easily except for R studio it kept giving me an error message. <img src"https://github.com/Adam33dp/-hist3814-materials/blob/main/part-one/error%20message%20R%20studio.jpgwidth="20 
 + I asked professor Graham if he had seen that before and he was able to find out that it was because I had already downloaded it and was attempting to do it twice.
 +  I than found R studio in my files and was able to open it.
 + I than played around with Miniconda again as the tutorial insisted and it was rather interesting.
